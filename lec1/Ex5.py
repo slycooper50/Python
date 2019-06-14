@@ -1,0 +1,8 @@
+print("Please enter your weight (in Kilograms):")
+weight = float(input())
+print("Please enter the height (in meters):")
+height = float(input())
+print ("The value of BMI is: %.2f \n" % (weight / (height**2)))
+print ("The standard BMI values are:\n" + "1 - Underweight: Less than 18.5.")
+print ("2- Normal: Between 18.5 and 24.9.\n" + "3- Overweight: Between 25 and 29.9.")
+print ("4- Obese: 30 or greater.")

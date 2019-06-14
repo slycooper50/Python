@@ -1,0 +1,2 @@
+Learn Python programming at KFUPM.
+Working with strings and files
